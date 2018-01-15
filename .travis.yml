@@ -1,6 +1,6 @@
 language: csharp
 solution: K.ati.sln
 install:
--sudo apt-get install -y gtk-sharp2
--ls -la
--nuget restore K.ati.sln
+- sudo apt-get install -y gtk-sharp2
+- ls -la
+- nuget restore K.ati.sln
