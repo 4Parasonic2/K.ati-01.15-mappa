@@ -1,0 +1,6 @@
+c:\users\temp.deri.009\documents\visual studio 2015\Projects\K.ati\K.ati\bin\Debug\K.ati.exe.config
+c:\users\temp.deri.009\documents\visual studio 2015\Projects\K.ati\K.ati\bin\Debug\K.ati.exe
+c:\users\temp.deri.009\documents\visual studio 2015\Projects\K.ati\K.ati\bin\Debug\K.ati.pdb
+c:\users\temp.deri.009\documents\visual studio 2015\Projects\K.ati\K.ati\obj\Debug\K.ati.csprojResolveAssemblyReference.cache
+c:\users\temp.deri.009\documents\visual studio 2015\Projects\K.ati\K.ati\obj\Debug\K.ati.exe
+c:\users\temp.deri.009\documents\visual studio 2015\Projects\K.ati\K.ati\obj\Debug\K.ati.pdb
