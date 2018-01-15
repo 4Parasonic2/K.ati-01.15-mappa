@@ -10,7 +10,7 @@ namespace K.ati
     {
         static void Main(string[] args)
         {
-            int x = 0;
+            int x = 0
         }
     }
 }
